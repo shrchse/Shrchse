@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'am a student of Lambung Mangkurat University, IT Department<br><br>I like to play games, and I'm interested to become a web, software, and game developer.<br><br>Nice to meet you~</p>
+<p align="left">I'am a student in IT Department of Lambung Mangkurat University<br><br>I like to play games, and I'm interested to become a web, software, and game developer.<br><br>Nice to meet you~</p>
 
 ###
 
